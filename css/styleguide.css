@@ -1,0 +1,127 @@
+:root { 
+  --dove-gray: #707070;
+  --mine-shaft: #303030;
+  --moonstone: #3ca5d7;
+  --voodoo: #5a3555;
+  --white: #ffffff;
+  --yellow-sea: #fba900;
+ 
+  --font-size-l: 22.5px;
+  --font-size-m: 20px;
+  --font-size-s: 11px;
+  --font-size-xl: 25px;
+  --font-size-xs: 9px;
+  --font-size-xxl: 28px;
+  --font-size-xxxl: 40px;
+ 
+  --font-family-eternallogo-regular: "EternalLogo-Regular", Helvetica;
+  --font-family-eternalui-bold: "EternalUI-Bold", Helvetica;
+  --font-family-eternalui-regular: "EternalUI-Regular", Helvetica;
+}
+.eternalui-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-bold-white-28px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternallogo-regular-normal-yellow-sea-35px {
+  color: var(--yellow-sea);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.eternalui-bold-white-9px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-bold-white-22px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-bold-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-bold-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternalui-regular-normal-white-22-5px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.eternalui-bold-white-40px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternallogo-regular-normal-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.eternalui-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.eternallogo-regular-normal-yellow-sea-40px {
+  color: var(--yellow-sea);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

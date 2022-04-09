@@ -1,0 +1,818 @@
+/* screen - mobile */
+
+.mobile {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 926px;
+  min-width: 425px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.mobile .background-purple-LP8vkM {
+  background-color: transparent;
+  height: 926px;
+  left: -505px;
+  object-fit: cover;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 668px);
+}
+
+.mobile .header-and-back-ground-LP8vkM {
+  background-color: transparent;
+  height: 52px;
+  left: 0px;
+  position: fixed;
+  top: -1px;
+  width: 100%;
+}
+
+.mobile .path-1-WXUUXv {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.mobile .rectangle-1-WXUUXv {
+  background-color: var(--voodoo);
+  bottom: 0px;
+  height: 5px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.mobile .ellipse-1-WXUUXv {
+  background-color: var(--mine-shaft);
+  border-radius: 26px;
+  height: 100%;
+  left: 9px;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+
+.mobile .logo-WXUUXv {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 47px;
+}
+
+.mobile .component-3-3-WXUUXv {
+  background-color: transparent;
+  height: 15px;
+  left: calc(38.44% - 94px);
+  position: absolute;
+  top: 5px;
+  width: 244px;
+}
+
+.mobile .path-2-rAxcxv {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .group-5-WXUUXv {
+  background-color: transparent;
+  bottom: 7px;
+  height: 24px;
+  position: absolute;
+  right: 0px;
+  width: 280px;
+}
+
+.mobile .group-1-gDWLHK {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 210px;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .component-6-9-Wz7sBp {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.mobile .component-6-9-Wz7sBp:hover {
+  filter: blur(4px);
+}
+
+.mobile .roadmap-Wz7sBp {
+  background-color: transparent;
+  height: 64.86%;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  right: 12px;
+  text-align: left;
+  top: 25.68%;
+  white-space: nowrap;
+  width: 62.86%;
+}
+
+.mobile .group-2-gDWLHK {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 148px;
+  top: 0px;
+  width: 70px;
+}
+
+.mobile .component-6-10-fcYjXP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.mobile .component-6-10-fcYjXP:hover {
+  filter: blur(4px);
+}
+
+.mobile .art-fcYjXP {
+  background-color: transparent;
+  height: 64.86%;
+  left: 38.57%;
+  letter-spacing: 0.00px;
+  line-height: 9px;
+  position: absolute;
+  text-align: left;
+  top: 25.68%;
+  white-space: nowrap;
+  width: 25.71%;
+}
+
+.mobile .group-3-gDWLHK {
+  background-color: transparent;
+  height: 19px;
+  position: absolute;
+  right: 63px;
+  top: 5px;
+  width: 70px;
+}
+
+.mobile .component-6-11-7ik8NV {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.mobile .component-6-11-7ik8NV:hover {
+  filter: blur(4px);
+}
+
+.mobile .about-7ik8NV {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 59.46%;
+  left: 32.14%;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 28.38%;
+  white-space: nowrap;
+  width: 38.57%;
+}
+
+.mobile .group-4-gDWLHK {
+  background-color: transparent;
+  cursor: pointer;
+  height: 19px;
+  pointer-events: auto;
+  position: absolute;
+  right: 1px;
+  top: 5px;
+  transition: all 0.2s ease;
+  width: 70px;
+}
+
+.mobile .group-4-gDWLHK:hover {
+  filter: blur(4px);
+}
+
+.mobile .component-6-12-jGwfdg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .faq-jGwfdg {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 59.46%;
+  left: 40.71%;
+  letter-spacing: 0.00px;
+  line-height: 8px;
+  position: absolute;
+  text-align: left;
+  top: 28.38%;
+  white-space: nowrap;
+  width: 21.43%;
+}
+
+.mobile .not-decided-LP8vkM {
+  background-color: transparent;
+  height: 7.28%;
+  left: 1.32%;
+  position: absolute;
+  top: 180px;
+  width: 60.93%;
+}
+
+.mobile .path-19-nLGG61 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .path-21-nLGG61 {
+  background-color: transparent;
+  height: 12px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 23px);
+}
+
+.mobile .social-media-nLGG61 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(49.50% - 28px);
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 57px;
+}
+
+.mobile .group-11-LP8vkM {
+  background-color: transparent;
+  height: 67px;
+  left: 162px;
+  position: absolute;
+  top: calc(30.05% - 20px);
+  width: 61.36%;
+}
+
+.mobile .not-decided-TxN15R {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 130px);
+  position: absolute;
+  top: 0px;
+  width: 261px;
+}
+
+.mobile .path-19-A4sb6I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .path-21-A4sb6I {
+  background-color: transparent;
+  height: 12px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 23px);
+}
+
+.mobile .our-game-A4sb6I {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: calc(49.54% - 22px);
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 44px;
+}
+
+.mobile .arcade_logo-TxN15R {
+  background-color: transparent;
+  height: 47px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(50.00% - 69px);
+  top: 16px;
+  width: 138px;
+}
+
+.mobile .welcome-LP8vkM {
+  background-color: transparent;
+  height: 117px;
+  left: 1.32%;
+  position: absolute;
+  top: 53px;
+  width: 98.25%;
+}
+
+.mobile .path-14-HJH3wI {
+  background-color: transparent;
+  height: 100%;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 29px);
+}
+
+.mobile .the-cultured-kongz-a-HJH3wI {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 12px);
+  letter-spacing: 0.05px;
+  line-height: 11px;
+  position: absolute;
+  right: 23px;
+  text-align: left;
+  top: 22px;
+  white-space: nowrap;
+  width: 330px;
+}
+
+.mobile .path-15-HJH3wI {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .welcome-to-the-culture-HJH3wI {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 1.10%;
+  white-space: nowrap;
+  width: 146px;
+}
+
+.mobile .component-8-4-HJH3wI {
+  background-color: transparent;
+  bottom: calc(45.78% - 8px);
+  height: 17px;
+  left: 10px;
+  opacity: 0.66;
+  position: absolute;
+  width: 47px;
+}
+
+.mobile .rectangle-4-gOr7x2 {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .join-now-HJH3wI {
+  background-color: transparent;
+  bottom: calc(45.21% - 4px);
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 6px;
+  font-style: normal;
+  font-weight: 700;
+  height: 8px;
+  left: 20px;
+  letter-spacing: 0.00px;
+  line-height: 6px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 30px;
+}
+
+.mobile .group-10-LP8vkM {
+  background-color: transparent;
+  height: 108px;
+  left: 5.23%;
+  position: absolute;
+  top: calc(40.50% - 44px);
+  width: 89.55%;
+}
+
+.mobile .not-decided-6xnQtX {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 190px);
+  position: absolute;
+  top: 0px;
+  width: 381px;
+}
+
+.mobile .path-19-3sx1uk {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .the-kongz-collection-6xnQtX {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 3px);
+  left: 11px;
+  letter-spacing: 0.05px;
+  line-height: 11px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: calc(100.00% - 15px);
+}
+
+.mobile .discord-LP8vkM {
+  background-color: transparent;
+  cursor: pointer;
+  height: 39px;
+  left: 59px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.38% - 9px);
+  width: 39px;
+}
+
+.mobile .twitter-LP8vkM {
+  background-color: transparent;
+  height: 39px;
+  left: calc(44.97% - 17px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(22.38% - 9px);
+  width: 39px;
+}
+
+.mobile .road-map-LP8vkM {
+  background-color: transparent;
+  display: block;
+  height: 274px;
+  left: 4.68%;
+  opacity: 0;
+  position: absolute;
+  top: 445px;
+  width: 90.64%;
+}
+
+.mobile .road-map-LP8vkM.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.mobile .path-27-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 243px;
+  width: 100.00%;
+}
+
+.mobile .mint-the-cultured-kongz-collection-7YLB5A {
+  background-color: transparent;
+  bottom: 3.00%;
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 209px;
+  text-align: center;
+  white-space: nowrap;
+  width: 43.61%;
+}
+
+.mobile .path-7-7YLB5A {
+  background-color: transparent;
+  height: 28px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 97px;
+}
+
+.mobile .roadmap-7YLB5A {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 9px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 69px;
+}
+
+.mobile .path-8-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 30px;
+  width: 100.00%;
+}
+
+.mobile .use-the-tablet-of-cr-7YLB5A {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 88px;
+  text-align: center;
+  top: calc(15.89% - 2px);
+  white-space: nowrap;
+  width: 75.28%;
+}
+
+.mobile .path-22-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 100.00%;
+}
+
+.mobile .path-23-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 101px;
+  width: 100.00%;
+}
+
+.mobile .path-24-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 100.00%;
+}
+
+.mobile .path-25-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 172px;
+  width: 100.00%;
+}
+
+.mobile .path-26-7YLB5A {
+  background-color: transparent;
+  height: 31px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 100.00%;
+}
+
+.mobile .setup-nifty-the-watch-dog-bot-7YLB5A {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 229px;
+  text-align: center;
+  top: calc(29.44% - 4px);
+  white-space: nowrap;
+  width: 38.42%;
+}
+
+.mobile .develop-the-staking-7YLB5A {
+  background-color: transparent;
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 168px;
+  text-align: center;
+  top: calc(42.99% - 5px);
+  white-space: nowrap;
+  width: 54.52%;
+}
+
+.mobile .develop-the-tokenomics-for-koinz-7YLB5A {
+  background-color: transparent;
+  bottom: calc(43.46% - 5px);
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 212px;
+  text-align: center;
+  white-space: nowrap;
+  width: 43.09%;
+}
+
+.mobile .complete-and-launch-our-website-7YLB5A {
+  background-color: transparent;
+  bottom: calc(29.91% - 4px);
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 217px;
+  text-align: center;
+  white-space: nowrap;
+  width: 41.54%;
+}
+
+.mobile .develop-the-first-game-for-kongz-arcade-7YLB5A {
+  background-color: transparent;
+  bottom: calc(16.55% - 2px);
+  height: 12px;
+  letter-spacing: 0.09px;
+  line-height: 9px;
+  position: absolute;
+  right: 183px;
+  text-align: center;
+  white-space: nowrap;
+  width: 50.36%;
+}
+
+.mobile .arts-LP8vkM {
+  background-color: transparent;
+  height: 172px;
+  left: 5.23%;
+  position: absolute;
+  top: 726px;
+  width: 89.55%;
+}
+
+.mobile .rectangle-3-IPTxOo {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.mobile .arts-IPTxOo {
+  background-color: transparent;
+  color: var(--yellow-sea);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 13px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: 39px;
+}
+
+.mobile .demo1-IPTxOo {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 135px;
+}
+
+.mobile .demo2-IPTxOo {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  object-fit: cover;
+  position: absolute;
+  right: 26px;
+  top: 25px;
+  width: 135px;
+}

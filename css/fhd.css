@@ -1,0 +1,2241 @@
+/* screen - fhd */
+
+.fhd {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5252px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.fhd .background-purple-LCWqx4 {
+  background-color: transparent;
+  height: 2685px;
+  left: -1px;
+  object-fit: cover;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 1718px);
+}
+
+.fhd .social-media-LCWqx4 {
+  background-color: transparent;
+  height: 243px;
+  left: calc(4.10% - 37px);
+  position: absolute;
+  top: 738px;
+  width: 897px;
+}
+
+.fhd .path-16-FpWgsC {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 683px;
+}
+
+.fhd .path-17-FpWgsC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.fhd .path-18-FpWgsC {
+  background-color: transparent;
+  height: 45px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 608px;
+}
+
+.fhd .social-media-FpWgsC {
+  background-color: transparent;
+  height: 24px;
+  left: calc(40.97% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.fhd .community-logo-FpWgsC {
+  background-color: transparent;
+  border-radius: 37px;
+  height: calc(100.00% - 60px);
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 183px;
+}
+
+.fhd .discord-FpWgsC {
+  background-color: transparent;
+  bottom: 35px;
+  cursor: pointer;
+  height: 142px;
+  left: calc(44.66% - 63px);
+  object-fit: cover;
+  position: absolute;
+  width: 140px;
+}
+
+.fhd .twitter-FpWgsC {
+  background-color: transparent;
+  bottom: 35px;
+  height: 142px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.90% - 33px);
+  width: 140px;
+}
+
+.fhd .welcome-LCWqx4 {
+  background-color: transparent;
+  height: 538px;
+  position: absolute;
+  right: calc(50.00% - 918px);
+  top: 159px;
+  width: 1836px;
+}
+
+.fhd .path-14-OxPqxe {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 1362px;
+}
+
+.fhd .path-7-OxPqxe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 651px;
+}
+
+.fhd .path-15-OxPqxe {
+  background-color: transparent;
+  height: 99px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1190px;
+}
+
+.fhd .card-smaller-OxPqxe {
+  background-color: transparent;
+  height: 424px;
+  left: calc(18.29% - 58px);
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 316px;
+}
+
+.fhd .component-8-2-OxPqxe {
+  background-color: transparent;
+  bottom: calc(43.28% - 32px);
+  height: 75px;
+  left: 44px;
+  opacity: 0.66;
+  position: absolute;
+  width: 205px;
+}
+
+.fhd .rectangle-4-S7neAw {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .join-now-OxPqxe {
+  background-color: transparent;
+  bottom: calc(43.29% - 13px);
+  height: 30px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.fhd .welcome-to-the-culture-OxPqxe {
+  background-color: transparent;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.89% - 241px);
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 483px;
+}
+
+.fhd .the-cultured-kongz-a-OxPqxe {
+  background-color: transparent;
+  bottom: 20px;
+  height: 378px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  position: absolute;
+  right: 86px;
+  text-align: left;
+  white-space: nowrap;
+  width: 1083px;
+}
+
+.fhd .not-decided-LCWqx4 {
+  background-color: transparent;
+  height: 4.61%;
+  position: absolute;
+  right: calc(4.27% - 40px);
+  top: 749px;
+  width: 938px;
+}
+
+.fhd .path-19-PMEMYx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .path-21-PMEMYx {
+  background-color: transparent;
+  height: 44px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 81px);
+}
+
+.fhd .our-game-PMEMYx {
+  background-color: transparent;
+  height: 27px;
+  left: 122px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.fhd .road-map-LCWqx4 {
+  background-color: transparent;
+  display: block;
+  height: 806px;
+  left: calc(50.00% - 914px);
+  opacity: 0;
+  position: absolute;
+  top: 1210px;
+  width: 1827px;
+}
+
+.fhd .road-map-LCWqx4.bp1-animate-enter {
+  animation: bp1-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp1-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.fhd .path-27-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 737px;
+  width: 60.77%;
+}
+
+.fhd .mint-the-cultured-kongz-collection-z1Q4Tj {
+  background-color: transparent;
+  bottom: calc(1.90% - 1px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 579px;
+  text-align: center;
+  white-space: nowrap;
+  width: 28.02%;
+}
+
+.fhd .path-7-z1Q4Tj {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 331px;
+}
+
+.fhd .roadmap-z1Q4Tj {
+  background-color: transparent;
+  height: 41px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.fhd .path-7-kPdxLH {
+  background-color: transparent;
+  height: 711px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 32.72%;
+}
+
+.fhd .path-8-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 89px;
+  width: 60.77%;
+}
+
+.fhd .use-the-tablet-of-cr-z1Q4Tj {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 197px;
+  text-align: center;
+  top: calc(14.29% - 5px);
+  white-space: nowrap;
+  width: 48.38%;
+}
+
+.fhd .path-22-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 60.77%;
+}
+
+.fhd .path-23-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 60.77%;
+}
+
+.fhd .path-24-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 60.77%;
+}
+
+.fhd .path-25-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 60.77%;
+}
+
+.fhd .path-26-z1Q4Tj {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 630px;
+  width: 60.77%;
+}
+
+.fhd .setup-nifty-the-watch-dog-bot-z1Q4Tj {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 633px;
+  text-align: center;
+  top: calc(28.65% - 9px);
+  white-space: nowrap;
+  width: 24.52%;
+}
+
+.fhd .develop-the-staking-z1Q4Tj {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 455px;
+  text-align: center;
+  top: calc(42.61% - 14px);
+  white-space: nowrap;
+  width: 34.80%;
+}
+
+.fhd .develop-the-tokenomics-for-koinz-z1Q4Tj {
+  background-color: transparent;
+  bottom: calc(43.55% - 14px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 589px;
+  text-align: center;
+  white-space: nowrap;
+  width: 27.47%;
+}
+
+.fhd .complete-and-launch-our-website-z1Q4Tj {
+  background-color: transparent;
+  bottom: calc(29.71% - 10px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 607px;
+  text-align: center;
+  white-space: nowrap;
+  width: 26.49%;
+}
+
+.fhd .develop-the-first-game-for-kongz-arcade-z1Q4Tj {
+  background-color: transparent;
+  bottom: calc(15.74% - 5px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 501px;
+  text-align: center;
+  white-space: nowrap;
+  width: 32.29%;
+}
+
+.fhd .arts-LCWqx4 {
+  background-color: transparent;
+  height: 826px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 2272px;
+  width: 1839px;
+}
+
+.fhd .rectangle-3-GEQSIf {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .arts-GEQSIf {
+  background-color: transparent;
+  height: 41px;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.fhd .demo1-GEQSIf {
+  background-color: transparent;
+  height: 400px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.fhd .demo2-GEQSIf {
+  background-color: transparent;
+  height: 400px;
+  object-fit: cover;
+  position: absolute;
+  right: 137px;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.fhd .about-LCWqx4 {
+  background-color: transparent;
+  height: 826px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 3353px;
+  width: 1839px;
+}
+
+.fhd .rectangle-3-XSY4pa {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .about-XSY4pa {
+  background-color: transparent;
+  height: 41px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.fhd .demo1-XSY4pa {
+  background-color: transparent;
+  height: 281px;
+  left: calc(7.96% - 22px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.fhd .demo1-PsxxZ7 {
+  background-color: transparent;
+  height: 281px;
+  left: calc(36.07% - 101px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.fhd .demo1-T6fLlC {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.94% - 101px);
+  top: 132px;
+  width: 281px;
+}
+
+.fhd .demo1-VGZwFq {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(7.96% - 22px);
+  top: 132px;
+  width: 281px;
+}
+
+.fhd .the-team-XSY4pa {
+  background-color: transparent;
+  bottom: -4px;
+  height: 46px;
+  left: calc(48.66% - 135px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.fhd .rectangle-16-XSY4pa {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 6.74%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.fhd .the-captain-XSY4pa {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 10.77%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 7.94%;
+}
+
+.fhd .rectangle-17-XSY4pa {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 30.56%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.fhd .the-artist-XSY4pa {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 34.64%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 7.23%;
+}
+
+.fhd .rectangle-18-XSY4pa {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 54.27%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.fhd .the-botmaster-XSY4pa {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 56.82%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 10.33%;
+}
+
+.fhd .rectangle-19-XSY4pa {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 77.87%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.fhd .the-quartermaster-XSY4pa {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 79.01%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.70%;
+}
+
+.fhd .has-a-vision-that-on-XSY4pa {
+  background-color: transparent;
+  bottom: 123px;
+  height: 192px;
+  left: 7.18%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.52%;
+}
+
+.fhd .known-to-paint-and-d-XSY4pa {
+  background-color: transparent;
+  bottom: 97px;
+  height: 216px;
+  left: 31.10%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.30%;
+}
+
+.fhd .the-botmaster-has-bu-XSY4pa {
+  background-color: transparent;
+  bottom: 71px;
+  height: 240px;
+  left: 54.81%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.41%;
+}
+
+.fhd .like-the-captain-the-XSY4pa {
+  background-color: transparent;
+  bottom: 19px;
+  height: 288px;
+  left: 79.50%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 12.72%;
+}
+
+.fhd .faq-LCWqx4 {
+  background-color: transparent;
+  height: 743px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 4434px;
+  width: 1839px;
+}
+
+.fhd .rectangle-3-n4zTOf {
+  background-color: var(--voodoo);
+  height: 105px;
+  left: 1px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+
+.fhd .faq-n4zTOf {
+  background-color: transparent;
+  height: 41px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.fhd .rectangle-7-n4zTOf {
+  background-color: var(--white);
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.fhd .path-4-n4zTOf {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.66% - 64px);
+  width: 100%;
+}
+
+.fhd .path-5-n4zTOf {
+  background-color: transparent;
+  bottom: calc(28.67% - 43px);
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.fhd .path-6-n4zTOf {
+  background-color: transparent;
+  bottom: 0px;
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.fhd .rectangle-11-n4zTOf {
+  background-color: var(--moonstone);
+  height: 150px;
+  left: 1px;
+  opacity: 0.8;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.fhd .rectangle-12-n4zTOf {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(23.65% - 18px);
+  width: 100%;
+}
+
+.fhd .rectangle-13-n4zTOf {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(49.10% - 37px);
+  width: 100%;
+}
+
+.fhd .rectangle-14-n4zTOf {
+  background-color: var(--moonstone);
+  bottom: calc(25.45% - 19px);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.fhd .rectangle-15-n4zTOf {
+  background-color: var(--moonstone);
+  bottom: 0px;
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.fhd .arcade_logo-LCWqx4 {
+  background-color: transparent;
+  height: 169px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.43% - 92px);
+  top: 786px;
+  width: 497px;
+}
+
+.fhd .header-and-back-ground-LCWqx4 {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 1625px);
+}
+
+.fhd .path-1-an6gYx {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .rectangle-1-an6gYx {
+  background-color: var(--voodoo);
+  bottom: calc(47.93% - 5px);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+
+.fhd .ellipse-1-an6gYx {
+  background-color: var(--mine-shaft);
+  border-radius: 86.5px/87px;
+  height: calc(100.00% - 5px);
+  left: 39px;
+  position: absolute;
+  top: 5px;
+  width: 173px;
+}
+
+.fhd .logo-an6gYx {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 167px;
+}
+
+.fhd .component-3-1-an6gYx {
+  background-color: transparent;
+  height: 42px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 700px;
+}
+
+.fhd .path-2-GTtE8R {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.fhd .group-1-an6gYx {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 2301px;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6-1-SqHdx4 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.fhd .component-6-1-SqHdx4:hover {
+  filter: blur(4px);
+}
+
+.fhd .roadmap-SqHdx4 {
+  background-color: transparent;
+  height: 48.86%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 43px;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 47.74%;
+}
+
+.fhd .group-2-an6gYx {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 2150px;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6-2-zYAgxQ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.fhd .component-6-2-zYAgxQ:hover {
+  filter: blur(4px);
+}
+
+.fhd .art-zYAgxQ {
+  background-color: transparent;
+  height: 48.86%;
+  left: 40.87%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 19.45%;
+}
+
+.fhd .group-3-an6gYx {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 1999px;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6-3-fkH9d9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.fhd .component-6-3-fkH9d9:hover {
+  filter: blur(4px);
+}
+
+.fhd .about-fkH9d9 {
+  background-color: transparent;
+  height: 46.53%;
+  left: 34.97%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 31.23%;
+}
+
+.fhd .group-4-an6gYx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  pointer-events: auto;
+  position: absolute;
+  right: 1847px;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.fhd .group-4-an6gYx:hover {
+  filter: blur(4px);
+}
+
+.fhd .component-6-4-7TPtdl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.fhd .faq-7TPtdl {
+  background-color: transparent;
+  height: 46.53%;
+  left: 42.34%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 16.50%;
+}
+/* screen - wide */
+
+.wide {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5252px;
+  min-width: 3440px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.wide .background-purple-bw4ghq {
+  background-color: transparent;
+  height: 3051px;
+  left: 0px;
+  object-fit: cover;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .social-media-bw4ghq {
+  background-color: transparent;
+  height: 243px;
+  left: calc(17.57% - 158px);
+  position: absolute;
+  top: 758px;
+  width: 897px;
+}
+
+.wide .path-16-O3FGsy {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 683px;
+}
+
+.wide .path-17-O3FGsy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.wide .path-18-O3FGsy {
+  background-color: transparent;
+  height: 45px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 608px;
+}
+
+.wide .social-media-O3FGsy {
+  background-color: transparent;
+  height: 24px;
+  left: calc(41.01% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.wide .community-logo-O3FGsy {
+  background-color: transparent;
+  border-radius: 37px;
+  height: calc(100.00% - 60px);
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 183px;
+}
+
+.wide .discord-O3FGsy {
+  background-color: transparent;
+  bottom: 35px;
+  cursor: pointer;
+  height: 142px;
+  left: calc(44.70% - 63px);
+  object-fit: cover;
+  position: absolute;
+  width: 140px;
+}
+
+.wide .twitter-O3FGsy {
+  background-color: transparent;
+  bottom: 35px;
+  height: 142px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.86% - 33px);
+  width: 140px;
+}
+
+.wide .welcome-bw4ghq {
+  background-color: transparent;
+  height: 538px;
+  left: calc(50.00% - 1273px);
+  position: absolute;
+  top: 179px;
+  width: 2546px;
+}
+
+.wide .path-14-5SmUI3 {
+  background-color: transparent;
+  height: 100%;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 298px);
+}
+
+.wide .path-7-5SmUI3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 651px;
+}
+
+.wide .path-15-5SmUI3 {
+  background-color: transparent;
+  height: 96px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1903px;
+}
+
+.wide .card-smaller-5SmUI3 {
+  background-color: transparent;
+  height: 424px;
+  left: 285px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 316px;
+}
+
+.wide .component-8-3-5SmUI3 {
+  background-color: transparent;
+  bottom: calc(43.71% - 33px);
+  height: 75px;
+  left: 48px;
+  opacity: 0.66;
+  position: absolute;
+  width: 205px;
+}
+
+.wide .rectangle-4-pdYKMz {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .join-now-5SmUI3 {
+  background-color: transparent;
+  bottom: calc(43.68% - 13px);
+  height: 30px;
+  left: 86px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.wide .welcome-to-the-culture-5SmUI3 {
+  background-color: transparent;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(42.70% - 206px);
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 483px;
+}
+
+.wide .the-cultured-kongz-a-5SmUI3 {
+  background-color: transparent;
+  bottom: 25px;
+  color: var(--white);
+  font-family: var(--font-family-eternalui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+  height: 371px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  right: 129px;
+  text-align: left;
+  white-space: nowrap;
+  width: 1733px;
+}
+
+.wide .road-map-bw4ghq {
+  background-color: transparent;
+  display: block;
+  height: 806px;
+  left: 12.99%;
+  opacity: 0;
+  position: absolute;
+  top: 1210px;
+  width: 74.02%;
+}
+
+.wide .road-map-bw4ghq.bp2-animate-enter {
+  animation: bp2-animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes bp2-animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.wide .path-27-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 737px;
+  width: 60.77%;
+}
+
+.wide .mint-the-cultured-kongz-collection-tne7aB {
+  background-color: transparent;
+  bottom: calc(2.61% - 1px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 1139px;
+  text-align: center;
+  white-space: nowrap;
+  width: 14.37%;
+}
+
+.wide .path-7-tne7aB {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 331px;
+}
+
+.wide .roadmap-tne7aB {
+  background-color: transparent;
+  height: 41px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.wide .path-7-4Xjr3l {
+  background-color: transparent;
+  height: 711px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 32.72%;
+}
+
+.wide .path-8-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 89px;
+  width: 60.77%;
+}
+
+.wide .use-the-tablet-of-cr-tne7aB {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 873px;
+  text-align: center;
+  top: calc(14.53% - 3px);
+  white-space: nowrap;
+  width: 24.82%;
+}
+
+.wide .path-22-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 60.77%;
+}
+
+.wide .path-23-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 60.77%;
+}
+
+.wide .path-24-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 60.77%;
+}
+
+.wide .path-25-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 60.77%;
+}
+
+.wide .path-26-tne7aB {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 630px;
+  width: 60.77%;
+}
+
+.wide .setup-nifty-the-watch-dog-bot-tne7aB {
+  background-color: transparent;
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  right: 1169px;
+  text-align: center;
+  top: calc(28.25% - 7px);
+  white-space: nowrap;
+  width: 13.20%;
+}
+
+.wide .develop-the-staking-tne7aB {
+  background-color: transparent;
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 1051px;
+  text-align: center;
+  top: calc(42.00% - 10px);
+  white-space: nowrap;
+  width: 17.83%;
+}
+
+.wide .develop-the-tokenomics-for-koinz-tne7aB {
+  background-color: transparent;
+  bottom: calc(44.25% - 11px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 1145px;
+  text-align: center;
+  white-space: nowrap;
+  width: 14.14%;
+}
+
+.wide .complete-and-launch-our-website-tne7aB {
+  background-color: transparent;
+  bottom: calc(30.55% - 8px);
+  height: 25px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  right: 1141px;
+  text-align: center;
+  white-space: nowrap;
+  width: 14.29%;
+}
+
+.wide .develop-the-first-game-for-kongz-arcade-tne7aB {
+  background-color: transparent;
+  bottom: calc(16.35% - 4px);
+  height: 24px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 1083px;
+  text-align: center;
+  white-space: nowrap;
+  width: 16.57%;
+}
+
+.wide .arts-bw4ghq {
+  background-color: transparent;
+  height: 826px;
+  left: 12.99%;
+  position: absolute;
+  top: 2225px;
+  width: 74.02%;
+}
+
+.wide .rectangle-3-E0ZSP2 {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .arts-E0ZSP2 {
+  background-color: transparent;
+  height: 41px;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.wide .demo1-E0ZSP2 {
+  background-color: transparent;
+  height: 400px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.wide .demo2-E0ZSP2 {
+  background-color: transparent;
+  height: 400px;
+  object-fit: cover;
+  position: absolute;
+  right: 137px;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.wide .about-bw4ghq {
+  background-color: transparent;
+  height: 826px;
+  left: 12.99%;
+  position: absolute;
+  top: 3261px;
+  width: 74.02%;
+}
+
+.wide .rectangle-3-t2uOu7 {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .about-t2uOu7 {
+  background-color: transparent;
+  height: 41px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.wide .demo1-t2uOu7 {
+  background-color: transparent;
+  height: 281px;
+  left: calc(7.96% - 22px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.wide .demo1-kiXx3V {
+  background-color: transparent;
+  height: 281px;
+  left: calc(36.07% - 101px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.wide .demo1-CKWqNE {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.94% - 101px);
+  top: 132px;
+  width: 281px;
+}
+
+.wide .demo1-Q3Dhdp {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(7.96% - 22px);
+  top: 132px;
+  width: 281px;
+}
+
+.wide .the-team-t2uOu7 {
+  background-color: transparent;
+  bottom: -4px;
+  height: 46px;
+  left: calc(48.64% - 135px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.wide .rectangle-16-t2uOu7 {
+  background-color: var(--white);
+  bottom: 54px;
+  height: 331px;
+  left: 4.96%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.wide .the-captain-t2uOu7 {
+  background-color: transparent;
+  bottom: 341px;
+  height: 27px;
+  left: 10.10%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 5.07%;
+}
+
+.wide .rectangle-17-t2uOu7 {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 29.97%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.wide .the-artist-t2uOu7 {
+  background-color: transparent;
+  bottom: 342px;
+  height: 27px;
+  left: 35.35%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 4.59%;
+}
+
+.wide .rectangle-18-t2uOu7 {
+  background-color: var(--white);
+  bottom: 54px;
+  height: 331px;
+  left: 54.87%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.wide .the-botmaster-t2uOu7 {
+  background-color: transparent;
+  bottom: 342px;
+  height: 27px;
+  left: 59.25%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 6.60%;
+}
+
+.wide .rectangle-19-t2uOu7 {
+  background-color: var(--white);
+  bottom: 54px;
+  height: 331px;
+  left: 79.76%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.wide .the-quartermaster-t2uOu7 {
+  background-color: transparent;
+  bottom: 344px;
+  height: 27px;
+  left: 83.08%;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 8.72%;
+}
+
+.wide .has-a-vision-that-on-t2uOu7 {
+  background-color: transparent;
+  bottom: 146px;
+  height: 144px;
+  left: 5.27%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.77%;
+}
+
+.wide .known-to-paint-and-d-t2uOu7 {
+  background-color: transparent;
+  bottom: 149px;
+  height: 144px;
+  left: 30.36%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.57%;
+}
+
+.wide .the-botmaster-has-bu-t2uOu7 {
+  background-color: transparent;
+  bottom: 112px;
+  height: 168px;
+  left: 55.16%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.77%;
+}
+
+.wide .like-the-captain-the-t2uOu7 {
+  background-color: transparent;
+  bottom: 125px;
+  height: 168px;
+  left: 80.18%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.53%;
+}
+
+.wide .faq-bw4ghq {
+  background-color: transparent;
+  height: 743px;
+  left: 12.99%;
+  position: absolute;
+  top: 4296px;
+  width: 74.77%;
+}
+
+.wide .rectangle-3-e7oD6c {
+  background-color: var(--voodoo);
+  height: 105px;
+  left: 1px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 133px;
+}
+
+.wide .faq-e7oD6c {
+  background-color: transparent;
+  color: var(--yellow-sea);
+  font-family: var(--font-family-eternallogo-regular);
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: 31px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 68px;
+}
+
+.wide .rectangle-7-e7oD6c {
+  background-color: var(--white);
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.wide .path-4-e7oD6c {
+  background-color: transparent;
+  height: 150px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.66% - 64px);
+  width: 100%;
+}
+
+.wide .path-5-e7oD6c {
+  background-color: transparent;
+  bottom: calc(28.67% - 43px);
+  height: 150px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.wide .path-6-e7oD6c {
+  background-color: transparent;
+  bottom: 0px;
+  height: 150px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.wide .rectangle-11-e7oD6c {
+  background-color: var(--moonstone);
+  height: 150px;
+  left: 1px;
+  opacity: 0.8;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.wide .rectangle-12-e7oD6c {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(23.65% - 18px);
+  width: 100%;
+}
+
+.wide .rectangle-13-e7oD6c {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(49.10% - 37px);
+  width: 100%;
+}
+
+.wide .rectangle-14-e7oD6c {
+  background-color: var(--moonstone);
+  bottom: calc(25.45% - 19px);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.wide .rectangle-15-e7oD6c {
+  background-color: var(--moonstone);
+  bottom: 0px;
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.wide .group-5-bw4ghq {
+  background-color: transparent;
+  height: 242px;
+  position: absolute;
+  right: calc(17.85% - 167px);
+  top: 759px;
+  width: 938px;
+}
+
+.wide .not-decided-46umwP {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 938px;
+}
+
+.wide .path-19-rgAhx6 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .path-21-rgAhx6 {
+  background-color: transparent;
+  height: 44px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 81px);
+}
+
+.wide .our-game-rgAhx6 {
+  background-color: transparent;
+  height: 27px;
+  left: 123px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.wide .arcade_logo-46umwP {
+  background-color: transparent;
+  height: 169px;
+  object-fit: cover;
+  position: absolute;
+  right: 220px;
+  top: 37px;
+  width: 497px;
+}
+
+.wide .header-and-back-ground-bw4ghq {
+  background-color: transparent;
+  height: 191px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 3440px;
+}
+
+.wide .path-1-OmP2Sr {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .rectangle-1-OmP2Sr {
+  background-color: var(--voodoo);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  top: calc(48.62% - 5px);
+  width: calc(100.00% - 1px);
+}
+
+.wide .ellipse-1-OmP2Sr {
+  background-color: var(--mine-shaft);
+  border-radius: 86.5px/87px;
+  height: calc(100.00% - 17px);
+  left: 39px;
+  position: absolute;
+  top: 5px;
+  width: 173px;
+}
+
+.wide .logo-OmP2Sr {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 182px;
+}
+
+.wide .component-3-2-OmP2Sr {
+  background-color: transparent;
+  height: 63px;
+  left: 247px;
+  position: absolute;
+  top: 15px;
+  width: 1049px;
+}
+
+.wide .path-2-wSCExG {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.wide .group-6-bw4ghq {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 589px;
+  top: 22px;
+  width: 170px;
+}
+
+.wide .component-6-5-Lx3UwO {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.wide .component-6-5-Lx3UwO:hover {
+  filter: blur(4px);
+}
+
+.wide .roadmap-Lx3UwO {
+  background-color: transparent;
+  height: 48.86%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 43px;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 47.74%;
+}
+
+.wide .group-7-bw4ghq {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 438px;
+  top: 22px;
+  width: 170px;
+}
+
+.wide .component-6-6-krhRny {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.wide .component-6-6-krhRny:hover {
+  filter: blur(4px);
+}
+
+.wide .art-krhRny {
+  background-color: transparent;
+  height: 48.86%;
+  left: 40.87%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 19.45%;
+}
+
+.wide .group-8-bw4ghq {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 287px;
+  top: 22px;
+  width: 170px;
+}
+
+.wide .component-6-7-PlPha3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.wide .component-6-7-PlPha3:hover {
+  filter: blur(4px);
+}
+
+.wide .about-PlPha3 {
+  background-color: transparent;
+  height: 46.53%;
+  left: 34.97%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 31.23%;
+}
+
+.wide .group-9-bw4ghq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  pointer-events: auto;
+  position: absolute;
+  right: 135px;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.wide .group-9-bw4ghq:hover {
+  filter: blur(4px);
+}
+
+.wide .component-6-8-O1ONYS {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.wide .faq-O1ONYS {
+  background-color: transparent;
+  height: 46.53%;
+  left: 42.34%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 16.50%;
+}
+@media screen and (max-width: 3439px) {
+  .screen.wide { 
+    display: none;
+   }
+}
+@media screen and (min-width: 3440px) {
+  .screen.fhd { 
+    display: none;
+   }
+}

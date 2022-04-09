@@ -1,0 +1,1106 @@
+/* screen - web-1920-1 */
+
+.web-1920-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 5252px;
+  min-width: 1920px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.web-1920-1 .background-purple-HlzXCz {
+  background-color: transparent;
+  height: 2685px;
+  left: -1px;
+  object-fit: cover;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 1718px);
+}
+
+.web-1920-1 .social-media-HlzXCz {
+  background-color: transparent;
+  height: 243px;
+  left: calc(4.10% - 37px);
+  position: absolute;
+  top: 738px;
+  width: 897px;
+}
+
+.web-1920-1 .path-16-HlUxvQ {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 683px;
+}
+
+.web-1920-1 .path-17-HlUxvQ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 294px;
+}
+
+.web-1920-1 .path-18-HlUxvQ {
+  background-color: transparent;
+  height: 45px;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 1px;
+  width: 608px;
+}
+
+.web-1920-1 .social-media-HlUxvQ {
+  background-color: transparent;
+  height: 24px;
+  left: calc(40.97% - 52px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: 128px;
+}
+
+.web-1920-1 .community-logo-HlUxvQ {
+  background-color: transparent;
+  border-radius: 37px;
+  height: calc(100.00% - 60px);
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 183px;
+}
+
+.web-1920-1 .discord-HlUxvQ {
+  background-color: transparent;
+  bottom: 35px;
+  cursor: pointer;
+  height: 142px;
+  left: calc(44.66% - 63px);
+  object-fit: cover;
+  position: absolute;
+  width: 140px;
+}
+
+.web-1920-1 .twitter-HlUxvQ {
+  background-color: transparent;
+  bottom: 35px;
+  height: 142px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.90% - 33px);
+  width: 140px;
+}
+
+.web-1920-1 .welcome-HlzXCz {
+  background-color: transparent;
+  height: 538px;
+  position: absolute;
+  right: calc(50.00% - 918px);
+  top: 159px;
+  width: 1836px;
+}
+
+.web-1920-1 .path-14-3UqFUo {
+  background-color: transparent;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 1362px;
+}
+
+.web-1920-1 .path-7-3UqFUo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 651px;
+}
+
+.web-1920-1 .path-15-3UqFUo {
+  background-color: transparent;
+  height: 99px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 1190px;
+}
+
+.web-1920-1 .card-smaller-3UqFUo {
+  background-color: transparent;
+  height: 424px;
+  left: calc(18.29% - 58px);
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 316px;
+}
+
+.web-1920-1 .component-8-2-3UqFUo {
+  background-color: transparent;
+  bottom: calc(43.28% - 32px);
+  height: 75px;
+  left: 44px;
+  opacity: 0.66;
+  position: absolute;
+  width: 205px;
+}
+
+.web-1920-1 .rectangle-4-aZ08c0 {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .join-now-3UqFUo {
+  background-color: transparent;
+  bottom: calc(43.29% - 13px);
+  height: 30px;
+  left: 82px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 118px;
+}
+
+.web-1920-1 .welcome-to-the-culture-3UqFUo {
+  background-color: transparent;
+  height: 46px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.89% - 241px);
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 483px;
+}
+
+.web-1920-1 .the-cultured-kongz-a-3UqFUo {
+  background-color: transparent;
+  bottom: 20px;
+  height: 378px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  position: absolute;
+  right: 86px;
+  text-align: left;
+  white-space: nowrap;
+  width: 1083px;
+}
+
+.web-1920-1 .not-decided-HlzXCz {
+  background-color: transparent;
+  height: 4.61%;
+  position: absolute;
+  right: calc(4.27% - 40px);
+  top: 749px;
+  width: 938px;
+}
+
+.web-1920-1 .path-19-0asO79 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .path-21-0asO79 {
+  background-color: transparent;
+  height: 44px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 81px);
+}
+
+.web-1920-1 .our-game-0asO79 {
+  background-color: transparent;
+  height: 27px;
+  left: 122px;
+  letter-spacing: 0.00px;
+  line-height: 22.5px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.web-1920-1 .road-map-HlzXCz {
+  background-color: transparent;
+  display: block;
+  height: 806px;
+  left: calc(50.00% - 914px);
+  opacity: 0;
+  position: absolute;
+  top: 1210px;
+  width: 1827px;
+}
+
+.web-1920-1 .road-map-HlzXCz.animate-enter2 {
+  animation: animate-enter2-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter2-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.web-1920-1 .path-27-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 737px;
+  width: 60.77%;
+}
+
+.web-1920-1 .mint-the-cultured-kongz-collection-0xszMY {
+  background-color: transparent;
+  bottom: calc(1.90% - 1px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 579px;
+  text-align: center;
+  white-space: nowrap;
+  width: 28.02%;
+}
+
+.web-1920-1 .path-7-0xszMY {
+  background-color: transparent;
+  height: 94px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 331px;
+}
+
+.web-1920-1 .roadmap-0xszMY {
+  background-color: transparent;
+  height: 41px;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 30px;
+  white-space: nowrap;
+  width: 236px;
+}
+
+.web-1920-1 .path-7-01omVD {
+  background-color: transparent;
+  height: 711px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 88px;
+  width: 32.72%;
+}
+
+.web-1920-1 .path-8-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 89px;
+  width: 60.77%;
+}
+
+.web-1920-1 .use-the-tablet-of-cr-0xszMY {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 197px;
+  text-align: center;
+  top: calc(14.29% - 5px);
+  white-space: nowrap;
+  width: 48.38%;
+}
+
+.web-1920-1 .path-22-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 60.77%;
+}
+
+.web-1920-1 .path-23-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 308px;
+  width: 60.77%;
+}
+
+.web-1920-1 .path-24-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 415px;
+  width: 60.77%;
+}
+
+.web-1920-1 .path-25-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 522px;
+  width: 60.77%;
+}
+
+.web-1920-1 .path-26-0xszMY {
+  background-color: transparent;
+  height: 69px;
+  left: 39.22%;
+  object-fit: cover;
+  position: absolute;
+  top: 630px;
+  width: 60.77%;
+}
+
+.web-1920-1 .setup-nifty-the-watch-dog-bot-0xszMY {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 633px;
+  text-align: center;
+  top: calc(28.65% - 9px);
+  white-space: nowrap;
+  width: 24.52%;
+}
+
+.web-1920-1 .develop-the-staking-0xszMY {
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 455px;
+  text-align: center;
+  top: calc(42.61% - 14px);
+  white-space: nowrap;
+  width: 34.80%;
+}
+
+.web-1920-1 .develop-the-tokenomics-for-koinz-0xszMY {
+  background-color: transparent;
+  bottom: calc(43.55% - 14px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 589px;
+  text-align: center;
+  white-space: nowrap;
+  width: 27.47%;
+}
+
+.web-1920-1 .complete-and-launch-our-website-0xszMY {
+  background-color: transparent;
+  bottom: calc(29.71% - 10px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 607px;
+  text-align: center;
+  white-space: nowrap;
+  width: 26.49%;
+}
+
+.web-1920-1 .develop-the-first-game-for-kongz-arcade-0xszMY {
+  background-color: transparent;
+  bottom: calc(15.74% - 5px);
+  height: 33px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  right: 501px;
+  text-align: center;
+  white-space: nowrap;
+  width: 32.29%;
+}
+
+.web-1920-1 .arts-HlzXCz {
+  background-color: transparent;
+  height: 826px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 2272px;
+  width: 1839px;
+}
+
+.web-1920-1 .rectangle-3-Ecllpp {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .arts-Ecllpp {
+  background-color: transparent;
+  height: 41px;
+  left: 75px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 45px;
+  white-space: nowrap;
+  width: 132px;
+}
+
+.web-1920-1 .demo1-Ecllpp {
+  background-color: transparent;
+  height: 400px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.web-1920-1 .demo2-Ecllpp {
+  background-color: transparent;
+  height: 400px;
+  object-fit: cover;
+  position: absolute;
+  right: 137px;
+  top: calc(35.45% - 142px);
+  width: 400px;
+}
+
+.web-1920-1 .about-HlzXCz {
+  background-color: transparent;
+  height: 826px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 3353px;
+  width: 1839px;
+}
+
+.web-1920-1 .rectangle-3-vTf3wk {
+  background-color: var(--voodoo);
+  height: 100%;
+  left: 0px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .about-vTf3wk {
+  background-color: transparent;
+  height: 41px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 166px;
+}
+
+.web-1920-1 .demo1-vTf3wk {
+  background-color: transparent;
+  height: 281px;
+  left: calc(7.96% - 22px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.web-1920-1 .demo1-Q1ivCo {
+  background-color: transparent;
+  height: 281px;
+  left: calc(36.07% - 101px);
+  object-fit: cover;
+  position: absolute;
+  top: 132px;
+  width: 281px;
+}
+
+.web-1920-1 .demo1-04HTxV {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(35.94% - 101px);
+  top: 132px;
+  width: 281px;
+}
+
+.web-1920-1 .demo1-ffA4Vx {
+  background-color: transparent;
+  height: 281px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(7.96% - 22px);
+  top: 132px;
+  width: 281px;
+}
+
+.web-1920-1 .the-team-vTf3wk {
+  background-color: transparent;
+  bottom: -4px;
+  height: 46px;
+  left: calc(48.66% - 135px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.web-1920-1 .rectangle-16-vTf3wk {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 6.74%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.web-1920-1 .the-captain-vTf3wk {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 10.77%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 7.94%;
+}
+
+.web-1920-1 .rectangle-17-vTf3wk {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 30.56%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.web-1920-1 .the-artist-vTf3wk {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 34.64%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 7.23%;
+}
+
+.web-1920-1 .rectangle-18-vTf3wk {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 54.27%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.web-1920-1 .the-botmaster-vTf3wk {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 56.82%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 10.33%;
+}
+
+.web-1920-1 .rectangle-19-vTf3wk {
+  background-color: var(--white);
+  bottom: 44px;
+  height: 331px;
+  left: 77.87%;
+  opacity: 0.04;
+  position: absolute;
+  width: 15.28%;
+}
+
+.web-1920-1 .the-quartermaster-vTf3wk {
+  background-color: transparent;
+  bottom: 336px;
+  height: 30px;
+  left: 79.01%;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 13.70%;
+}
+
+.web-1920-1 .has-a-vision-that-on-vTf3wk {
+  background-color: transparent;
+  bottom: 123px;
+  height: 192px;
+  left: 7.18%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.52%;
+}
+
+.web-1920-1 .known-to-paint-and-d-vTf3wk {
+  background-color: transparent;
+  bottom: 97px;
+  height: 216px;
+  left: 31.10%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.30%;
+}
+
+.web-1920-1 .the-botmaster-has-bu-vTf3wk {
+  background-color: transparent;
+  bottom: 71px;
+  height: 240px;
+  left: 54.81%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 14.41%;
+}
+
+.web-1920-1 .like-the-captain-the-vTf3wk {
+  background-color: transparent;
+  bottom: 19px;
+  height: 288px;
+  left: 79.50%;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 12.72%;
+}
+
+.web-1920-1 .faq-HlzXCz {
+  background-color: transparent;
+  height: 743px;
+  left: calc(50.00% - 920px);
+  position: absolute;
+  top: 4434px;
+  width: 1839px;
+}
+
+.web-1920-1 .rectangle-3-upxBWT {
+  background-color: var(--voodoo);
+  height: 105px;
+  left: 1px;
+  opacity: 0.43;
+  position: absolute;
+  top: 0px;
+  width: 170px;
+}
+
+.web-1920-1 .faq-upxBWT {
+  background-color: transparent;
+  height: 41px;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  white-space: nowrap;
+  width: 92px;
+}
+
+.web-1920-1 .rectangle-7-upxBWT {
+  background-color: var(--white);
+  height: 150px;
+  left: 1px;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.web-1920-1 .path-4-upxBWT {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.66% - 64px);
+  width: 100%;
+}
+
+.web-1920-1 .path-5-upxBWT {
+  background-color: transparent;
+  bottom: calc(28.67% - 43px);
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.web-1920-1 .path-6-upxBWT {
+  background-color: transparent;
+  bottom: 0px;
+  height: 150px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-11-upxBWT {
+  background-color: var(--moonstone);
+  height: 150px;
+  left: 1px;
+  opacity: 0.8;
+  position: absolute;
+  top: 83px;
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-12-upxBWT {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(23.65% - 18px);
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-13-upxBWT {
+  background-color: var(--moonstone);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  top: calc(49.10% - 37px);
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-14-upxBWT {
+  background-color: var(--moonstone);
+  bottom: calc(25.45% - 19px);
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-15-upxBWT {
+  background-color: var(--moonstone);
+  bottom: 0px;
+  height: 75px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+
+.web-1920-1 .arcade_logo-HlzXCz {
+  background-color: transparent;
+  height: 169px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(18.43% - 92px);
+  top: 786px;
+  width: 497px;
+}
+
+.web-1920-1 .header-and-back-ground-HlzXCz {
+  background-color: transparent;
+  height: 179px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: calc(100.00% + 1625px);
+}
+
+.web-1920-1 .path-1-DclMDw {
+  background-color: transparent;
+  height: 93px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .rectangle-1-DclMDw {
+  background-color: var(--voodoo);
+  bottom: calc(47.93% - 5px);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+
+.web-1920-1 .ellipse-1-DclMDw {
+  background-color: var(--mine-shaft);
+  border-radius: 86.5px/87px;
+  height: calc(100.00% - 5px);
+  left: 39px;
+  position: absolute;
+  top: 5px;
+  width: 173px;
+}
+
+.web-1920-1 .logo-DclMDw {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 167px;
+}
+
+.web-1920-1 .component-3-1-DclMDw {
+  background-color: transparent;
+  height: 42px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 700px;
+}
+
+.web-1920-1 .path-2-D1MZCQ {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% + 1px);
+}
+
+.web-1920-1 .group-1-DclMDw {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 2301px;
+  top: 22px;
+  width: 170px;
+}
+
+.web-1920-1 .component-6-1-22mwIq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.web-1920-1 .component-6-1-22mwIq:hover {
+  filter: blur(4px);
+}
+
+.web-1920-1 .roadmap-22mwIq {
+  background-color: transparent;
+  height: 48.86%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  right: 43px;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 47.74%;
+}
+
+.web-1920-1 .group-2-DclMDw {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 2150px;
+  top: 22px;
+  width: 170px;
+}
+
+.web-1920-1 .component-6-2-8xBdMe {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.web-1920-1 .component-6-2-8xBdMe:hover {
+  filter: blur(4px);
+}
+
+.web-1920-1 .art-8xBdMe {
+  background-color: transparent;
+  height: 48.86%;
+  left: 40.87%;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 30.22%;
+  white-space: nowrap;
+  width: 19.45%;
+}
+
+.web-1920-1 .group-3-DclMDw {
+  background-color: transparent;
+  height: 43px;
+  position: absolute;
+  right: 1999px;
+  top: 22px;
+  width: 170px;
+}
+
+.web-1920-1 .component-6-3-LZDxRy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.web-1920-1 .component-6-3-LZDxRy:hover {
+  filter: blur(4px);
+}
+
+.web-1920-1 .about-LZDxRy {
+  background-color: transparent;
+  height: 46.53%;
+  left: 34.97%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 31.23%;
+}
+
+.web-1920-1 .group-4-DclMDw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 43px;
+  pointer-events: auto;
+  position: absolute;
+  right: 1847px;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.web-1920-1 .group-4-DclMDw:hover {
+  filter: blur(4px);
+}
+
+.web-1920-1 .component-6-4-oYbbm1 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.web-1920-1 .faq-oYbbm1 {
+  background-color: transparent;
+  height: 46.53%;
+  left: 42.34%;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 31.39%;
+  white-space: nowrap;
+  width: 16.50%;
+}
