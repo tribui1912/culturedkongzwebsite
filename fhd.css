@@ -1,0 +1,1406 @@
+/* screen - fhd */
+
+.fhd {
+  background-color: var(--white);
+  height: 6898px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.fhd .background-purple {
+  height: 5523px;
+  left: -4052px;
+  object-fit: cover;
+  position: fixed;
+  top: 1px;
+  width: 8104px;
+}
+
+.fhd .social-media {
+  height: 243px;
+  left: 512px;
+  position: absolute;
+  top: 768px;
+  width: 897px;
+}
+
+.fhd .overlap-group-1 {
+  height: 243px;
+  position: relative;
+}
+
+.fhd .path-16 {
+  height: 243px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 683px;
+}
+
+.fhd .path-17 {
+  height: 243px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.fhd .path-18 {
+  height: 45px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.fhd .social-media-1 {
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.fhd .community-logo {
+  border-radius: 37px;
+  height: 183px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 183px;
+}
+
+.fhd .discord {
+  cursor: pointer;
+  height: 142px;
+  left: 338px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 140px;
+}
+
+.fhd .twitter {
+  height: 142px;
+  left: 576px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 140px;
+}
+
+.fhd .welcome {
+  height: 538px;
+  left: 42px;
+  position: absolute;
+  top: 159px;
+  width: 1836px;
+}
+
+.fhd .overlap-group1-2 {
+  height: 538px;
+  position: relative;
+}
+
+.fhd .path-14 {
+  height: 538px;
+  left: 474px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1362px;
+}
+
+.fhd .path-7 {
+  height: 538px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 651px;
+}
+
+.fhd .path-15 {
+  height: 99px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1190px;
+}
+
+.fhd .component-8-2 {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 197px;
+  left: 95px;
+  opacity: 0.66;
+  position: absolute;
+  top: 201px;
+  width: 139px;
+}
+
+.fhd .mintnow {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 274px;
+  white-space: nowrap;
+}
+
+.fhd .welcome-to-the-culture {
+  left: 678px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.fhd .the-cultured-kongz-a {
+  color: var(--white);
+  font-family: var(--font-family-icielcadena-regular);
+  font-size: var(--font-size-xxxl2);
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
+
+.fhd .card-final {
+  height: 440px;
+  left: 261px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 330px;
+}
+
+.fhd .arts {
+  background-color: var(--voodoo);
+  height: 1004px;
+  left: 40px;
+  position: absolute;
+  top: 3368px;
+  width: 1839px;
+}
+
+.fhd .arts-1 {
+  left: 854px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.fhd .demo1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/astronaut.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  left: 259px;
+  position: absolute;
+  top: 69px;
+  width: 400px;
+}
+
+.fhd .demo1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo1 img {
+  object-fit: cover;
+}
+
+.fhd .demo2 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/terminator.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  left: 1176px;
+  position: absolute;
+  top: 69px;
+  width: 400px;
+}
+
+.fhd .demo2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo2 img {
+  object-fit: cover;
+}
+
+.fhd .demo1-1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/super-saiyan.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  left: 259px;
+  position: absolute;
+  top: 532px;
+  width: 400px;
+}
+
+.fhd .demo1-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo1-1 img {
+  object-fit: cover;
+}
+
+.fhd .demo2-1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/joker.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  left: 1176px;
+  position: absolute;
+  top: 532px;
+  width: 400px;
+}
+
+.fhd .demo2-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo2-1 img {
+  object-fit: cover;
+}
+
+.fhd .about {
+  background-color: var(--voodoo);
+  height: 1247px;
+  left: 40px;
+  position: absolute;
+  top: 4491px;
+  width: 1839px;
+}
+
+.fhd .about-1 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.fhd .demo1-2 {
+  height: 281px;
+  left: 96px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 281px;
+}
+
+.fhd .demo1-3 {
+  height: 281px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 281px;
+}
+
+.fhd .demo1-4 {
+  height: 281px;
+  left: 778px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 281px;
+}
+
+.fhd .demo1-5 {
+  height: 281px;
+  left: 1120px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 281px;
+}
+
+.fhd .the-crew {
+  left: 781px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 602px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group8 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 96px;
+  position: absolute;
+  top: 451px;
+  width: 281px;
+}
+
+.fhd .blink {
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .founder-tokenomics {
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group7 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 438px;
+  position: absolute;
+  top: 451px;
+  width: 281px;
+}
+
+.fhd .icyreggie {
+  left: 83px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .co-founder-advisor {
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group3 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 778px;
+  position: absolute;
+  top: 451px;
+  width: 281px;
+}
+
+.fhd .crow {
+  left: 106px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .artist {
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group6 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 1121px;
+  position: absolute;
+  top: 451px;
+  width: 281px;
+}
+
+.fhd .bewinxed {
+  left: 84px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .developer {
+  left: 90px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.fhd .demo1-6 {
+  height: 281px;
+  left: 1460px;
+  object-fit: cover;
+  position: absolute;
+  top: 131px;
+  width: 281px;
+}
+
+.fhd .overlap-group5 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 1462px;
+  position: absolute;
+  top: 451px;
+  width: 281px;
+}
+
+.fhd .sn00ze {
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .tokenomicsadvisor {
+  left: 84px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 61px;
+  white-space: nowrap;
+}
+
+.fhd .demo1-7 {
+  height: 281px;
+  left: 436px;
+  object-fit: cover;
+  position: absolute;
+  top: 676px;
+  width: 281px;
+}
+
+.fhd .demo1-8 {
+  height: 281px;
+  left: 1120px;
+  object-fit: cover;
+  position: absolute;
+  top: 676px;
+  width: 281px;
+}
+
+.fhd .overlap-group2 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 437px;
+  position: absolute;
+  top: 996px;
+  width: 281px;
+}
+
+.fhd .fawnzee {
+  left: 89px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .developer-1 {
+  left: 86px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 59px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group4 {
+  background-color: var(--white-2);
+  height: 140px;
+  left: 1121px;
+  position: absolute;
+  top: 996px;
+  width: 281px;
+}
+
+.fhd .xew {
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.fhd .animatorgraphic-designer {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.fhd .the-posse {
+  left: 766px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 1137px;
+  white-space: nowrap;
+}
+
+.fhd .faq {
+  height: 743px;
+  left: 40px;
+  position: absolute;
+  top: 5838px;
+  width: 1839px;
+}
+
+.fhd .overlap-group11 {
+  background-color: var(--voodoo);
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.fhd .faq-1 {
+  left: 41px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group9 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 253px;
+  width: 1839px;
+}
+
+.fhd .overlap-group {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-31@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 75px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 1839px;
+}
+
+.fhd .tba {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fhd .mint-price {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group13 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 423px;
+  width: 1839px;
+}
+
+.fhd .there-will-be-a-tota {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+}
+
+.fhd .how-much-is-the-supply {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group12 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 150px;
+  left: 0;
+  position: absolute;
+  top: 593px;
+  width: 1839px;
+}
+
+.fhd .og-kongz-will-receiv {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.fhd .is-it-limited-mint {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 24px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group10 {
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 82px;
+  width: 1839px;
+}
+
+.fhd .path-35 {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1839px;
+}
+
+.fhd .path-33 {
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 1839px;
+}
+
+.fhd .tba-1 {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.fhd .when-is-the-mint-date {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.fhd .group-12 {
+  height: 422px;
+  left: 42px;
+  position: absolute;
+  top: 1469px;
+  width: 1836px;
+}
+
+.fhd .overlap-group1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-28-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 93px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 892px;
+}
+
+.fhd .profession {
+  left: 251px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fhd .professions {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/professions.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 502px;
+}
+
+.fhd .professions video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions img {
+  object-fit: cover;
+}
+
+.fhd .overlap-group1-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-19-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 534px;
+  position: absolute;
+  top: 139px;
+  width: 1302px;
+}
+
+.fhd .profess {
+  left: 54px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 45px;
+  white-space: nowrap;
+}
+
+.fhd .group-13 {
+  height: 422px;
+  left: 42px;
+  position: absolute;
+  top: 2138px;
+  width: 1836px;
+}
+
+.fhd .building {
+  left: 279px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fhd .professions-1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/building.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 502px;
+}
+
+.fhd .professions-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions-1 img {
+  object-fit: cover;
+}
+
+.fhd .overlap-group17 {
+  height: 299px;
+  left: 534px;
+  position: absolute;
+  top: 139px;
+  width: 1302px;
+}
+
+.fhd .group-5 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-19-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1302px;
+}
+
+.fhd .buil {
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.fhd .group-14 {
+  height: 422px;
+  left: 42px;
+  position: absolute;
+  top: 2807px;
+  width: 1836px;
+}
+
+.fhd .exploration {
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+}
+
+.fhd .professions-2 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/exploration.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 140px;
+  width: 502px;
+}
+
+.fhd .professions-2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions-2 img {
+  object-fit: cover;
+}
+
+.fhd .after {
+  left: 38px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group21 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62633eb61681dd898a407d76/img/path-29@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 116px;
+  left: 0;
+  position: absolute;
+  top: 1079px;
+  width: 1920px;
+}
+
+.fhd .title {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  left: 838px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+}
+
+.fhd .header-and-back-ground {
+  height: 179px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 3545px;
+}
+
+.fhd .overlap-group20 {
+  height: 179px;
+  position: relative;
+}
+
+.fhd .path-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3545px;
+}
+
+.fhd .rectangle-1 {
+  background-color: var(--voodoo-2);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  top: 88px;
+  width: 3544px;
+}
+
+.fhd .ellipse-1 {
+  background-color: var(--mine-shaft);
+  border-radius: 86.5px/87px;
+  height: 174px;
+  left: 39px;
+  position: absolute;
+  top: 5px;
+  width: 173px;
+}
+
+.fhd .logo {
+  height: 167px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 167px;
+}
+
+.fhd .component-3-1 {
+  height: 42px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 700px;
+}
+
+.fhd .path-2 {
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 701px;
+}
+
+.fhd .overlap-group1-3 {
+  height: 43px;
+  left: 1075px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6-1 {
+  cursor: pointer;
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.fhd .component-6-1:hover {
+  filter: blur(4px);
+}
+
+.fhd .component-container {
+  height: 43px;
+  position: relative;
+}
+
+.fhd .component-8-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/6219709391d7bd4c42697654/img/path-3-1-1x-png-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 43px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.fhd .component-5-1 {
+  height: 7px;
+  left: 28px;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+  width: 139px;
+}
+
+.fhd .ellipse-2 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-4 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-5 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-6 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-7 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 28px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-8 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-9 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 42px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-10 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3px/3.5px;
+  height: 7px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.fhd .ellipse-11 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-12 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-13 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-14 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 76px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-15 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 83px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-16 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-17 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 97px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-18 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-19 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 111px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-20 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 118px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-21 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-22 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 132px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .component-5-2 {
+  height: 7px;
+  left: 23px;
+  opacity: 0.15;
+  position: absolute;
+  top: 7px;
+  width: 139px;
+}
+
+.fhd .component-5-3 {
+  height: 7px;
+  left: 18px;
+  opacity: 0.15;
+  position: absolute;
+  top: 14px;
+  width: 139px;
+}
+
+.fhd .component-5-4 {
+  height: 7px;
+  left: 4px;
+  opacity: 0.15;
+  position: absolute;
+  top: 35px;
+  width: 139px;
+}
+
+.fhd .component-5-5 {
+  height: 7px;
+  left: 9px;
+  opacity: 0.15;
+  position: absolute;
+  top: 28px;
+  width: 139px;
+}
+
+.fhd .component-5-6 {
+  height: 7px;
+  left: 14px;
+  opacity: 0.15;
+  position: absolute;
+  top: 21px;
+  width: 139px;
+}
+
+.fhd .roadmap {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group2-1 {
+  height: 43px;
+  left: 1226px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6 {
+  cursor: pointer;
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.fhd .component-6:hover {
+  filter: blur(4px);
+}
+
+.fhd .art {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group3-1 {
+  height: 43px;
+  left: 1377px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .about-2 {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .group-4 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62197b575fd711eb2cf78486/img/component-6---1-1x-png-1x-png-1x-png-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  height: 43px;
+  left: 1528px;
+  position: absolute;
+  top: 22px;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.fhd .group-4:hover {
+  filter: blur(4px);
+}
+
+.fhd .faq-2 {
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
