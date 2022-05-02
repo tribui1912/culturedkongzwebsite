@@ -1,0 +1,56 @@
+@font-face {
+  font-family: "EternalUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/EternalUiBold-DOGB1.ttf") format("truetype");
+}
+@font-face {
+  font-family: "iCielCadena-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/iciel Cadena.ttf") format("truetype");
+}
+@font-face {
+  font-family: "EternalLogo-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/EternalLogo-MVO7Y.ttf") format("truetype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/6212eb2a98745a4a1139f888.6212eb2b14d3950a46bfe192.Y5tXMmy.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}
