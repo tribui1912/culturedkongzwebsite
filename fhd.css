@@ -1,0 +1,1513 @@
+/* screen - fhd */
+
+.fhd {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6898px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.fhd .header-and-back-ground {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  left: 0;
+  min-width: 3545px;
+  position: fixed;
+  top: 0;
+  z-index: 11;
+}
+
+.fhd .overlap-group20 {
+  height: 179px;
+  position: relative;
+  width: 3545px;
+}
+
+.fhd .path-1 {
+  height: 93px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3545px;
+}
+
+.fhd .rectangle-1 {
+  background-color: var(--voodoo-2);
+  height: 10px;
+  left: 1px;
+  position: absolute;
+  top: 88px;
+  width: 3544px;
+}
+
+.fhd .ellipse-1 {
+  background-color: var(--mine-shaft);
+  border-radius: 86.5px/87px;
+  height: 174px;
+  left: 39px;
+  position: absolute;
+  top: 5px;
+  width: 173px;
+}
+
+.fhd .logo {
+  height: 167px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 167px;
+}
+
+.fhd .component-3-1 {
+  display: flex;
+  height: 42px;
+  left: 240px;
+  position: absolute;
+  top: 25px;
+  width: 700px;
+}
+
+.fhd .path-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 700.73px;
+}
+
+.fhd .overlap-group5 {
+  height: 43px;
+  left: 1075px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 43px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 170px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+}
+
+.fhd .component-6-1:hover {
+  filter: blur(4px);
+}
+
+.fhd .component-container {
+  height: 43px;
+  position: relative;
+  width: 170px;
+}
+
+.fhd .component-8-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/6219709391d7bd4c42697654/img/path-3-1-1x-png-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 43px;
+  left: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.fhd .component-5-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 28px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 0;
+}
+
+.fhd .ellipse {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  width: 7px;
+}
+
+.fhd .ellipse-10 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3px/3.5px;
+  height: 7px;
+  width: 6px;
+}
+
+.fhd .component-5-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 23px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 7px;
+}
+
+.fhd .ellipse-container {
+  height: 7px;
+  position: relative;
+  width: 111px;
+}
+
+.fhd .ellipse-4 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-6 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-7 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-8 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 21px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-9 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 28px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-10-1 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3px/3.5px;
+  height: 7px;
+  left: 35px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.fhd .ellipse-11 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-12 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 48px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-13 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-14 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-15 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 69px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-16 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 76px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-17 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 83px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-18 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-19 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 97px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .ellipse-20 {
+  background-color: var(--fuchsia-pink);
+  border-radius: 3.5px;
+  height: 7px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 7px;
+}
+
+.fhd .component-5-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 18px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 14px;
+}
+
+.fhd .component-5-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 4px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 35px;
+}
+
+.fhd .component-5-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 9px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 28px;
+}
+
+.fhd .component-5-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 7px;
+  left: 14px;
+  min-width: 139px;
+  opacity: 0.15;
+  position: absolute;
+  top: 21px;
+}
+
+.fhd .roadmap {
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group6 {
+  height: 43px;
+  left: 1226px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .component-6 {
+  cursor: pointer;
+  height: 43px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  width: 170px;
+}
+
+.fhd .component-6:hover {
+  filter: blur(4px);
+}
+
+.fhd .art {
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group7 {
+  height: 43px;
+  left: 1377px;
+  position: absolute;
+  top: 22px;
+  width: 170px;
+}
+
+.fhd .about {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.fhd .group-4 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62197b575fd711eb2cf78486/img/component-6---1-1x-png-1x-png-1x-png-1x-png-1x-png@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 43px;
+  justify-content: flex-end;
+  left: 1528px;
+  min-width: 170px;
+  padding: 9.5px 69.8px;
+  position: absolute;
+  top: 22px;
+  transition: all 0.2s ease;
+}
+
+.fhd .group-4:hover {
+  filter: blur(4px);
+}
+
+.fhd .faq {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 20px;
+  min-width: 28px;
+  white-space: nowrap;
+}
+
+.fhd .background-purple {
+  height: 5523px;
+  left: -4052px;
+  object-fit: cover;
+  position: fixed;
+  top: 1px;
+  width: 8104px;
+  z-index: 1;
+}
+
+.fhd .welcome {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  margin-top: 159px;
+  min-width: 1836px;
+  z-index: 3;
+}
+
+.fhd .overlap-group1 {
+  height: 538px;
+  position: relative;
+  width: 1836px;
+}
+
+.fhd .path-14 {
+  height: 538px;
+  left: 474px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1362px;
+}
+
+.fhd .path-7 {
+  height: 538px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 651px;
+}
+
+.fhd .path-15 {
+  height: 99px;
+  left: 646px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1190px;
+}
+
+.fhd .component-8-2 {
+  background-color: var(--moonstone);
+  border-radius: 48px;
+  height: 197px;
+  left: 95px;
+  opacity: 0.66;
+  position: absolute;
+  top: 201px;
+  width: 139px;
+}
+
+.fhd .mintnow {
+  left: 138px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 274px;
+  white-space: nowrap;
+}
+
+.fhd .welcome-to-the-culture {
+  left: 678px;
+  letter-spacing: 0;
+  line-height: 40px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.fhd .the-cultured-kongz-a {
+  color: var(--white);
+  font-family: var(--font-family-icielcadena-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  left: 660px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 132px;
+  white-space: nowrap;
+}
+
+.fhd .card-final {
+  height: 440px;
+  left: 261px;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 330px;
+}
+
+.fhd .social-media {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  margin-top: 70px;
+  min-width: 897px;
+  z-index: 2;
+}
+
+.fhd .overlap-group-2 {
+  height: 243px;
+  margin-top: 0;
+  position: relative;
+  width: 897px;
+}
+
+.fhd .path-16 {
+  height: 243px;
+  left: 214px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 683px;
+}
+
+.fhd .path-17 {
+  height: 243px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 294px;
+}
+
+.fhd .path-18 {
+  height: 45px;
+  left: 289px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.fhd .social-media-1 {
+  left: 315px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.fhd .community-logo {
+  border-radius: 37px;
+  height: 183px;
+  left: 66px;
+  object-fit: cover;
+  position: absolute;
+  top: 40px;
+  width: 183px;
+}
+
+.fhd .discord {
+  cursor: pointer;
+  height: 142px;
+  left: 338px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 140px;
+}
+
+.fhd .twitter {
+  height: 142px;
+  left: 576px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 140px;
+}
+
+.fhd .overlap-group21 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62633eb61681dd898a407d76/img/path-29@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 116px;
+  justify-content: flex-end;
+  margin-top: 68px;
+  min-width: 1920px;
+  padding: 26.1px 835px;
+  z-index: 10;
+}
+
+.fhd .title {
+  color: var(--white);
+  font-family: var(--font-family-eternalui-bold);
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 50px;
+  min-height: 57px;
+  min-width: 247px;
+  white-space: nowrap;
+}
+
+.fhd .group-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 273px;
+  min-height: 422px;
+  width: 1836px;
+  z-index: 7;
+}
+
+.fhd .overlap-group14 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-28-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 93px;
+  min-width: 892px;
+  padding: 26.8px 251.1px;
+}
+
+.fhd .profession {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 35px;
+  min-width: 180px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 0.06px;
+  margin-top: 47px;
+  min-width: 1836px;
+}
+
+.fhd .professions {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/professions.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  margin-bottom: 0.02px;
+  width: 502px;
+}
+
+.fhd .professions video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions img {
+  object-fit: cover;
+}
+
+.fhd .overlap-group15 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-19-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 282px;
+  margin-left: 32px;
+  min-width: 1302px;
+  padding: 33.3px 53.9px;
+}
+
+.fhd .profess {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 204px;
+  min-width: 1054px;
+  white-space: nowrap;
+}
+
+.fhd .group-13 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-right: 0;
+  margin-top: 247px;
+  min-height: 422px;
+  width: 1836px;
+  z-index: 8;
+}
+
+.fhd .overlap-group16 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-28-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 93px;
+  min-width: 892px;
+  padding: 26.5px 279.1px;
+}
+
+.fhd .building {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 35px;
+  min-width: 124px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0.06px;
+  margin-top: 47px;
+  min-width: 1836px;
+}
+
+.fhd .professions-1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/building.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  margin-top: 0.5px;
+  width: 502px;
+}
+
+.fhd .professions-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions-1 img {
+  object-fit: cover;
+}
+
+.fhd .overlap-group17 {
+  height: 299px;
+  margin-left: 32px;
+  position: relative;
+  width: 1302px;
+}
+
+.fhd .group-5 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-19-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1302px;
+}
+
+.fhd .buil {
+  left: 49px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 25px;
+  white-space: nowrap;
+}
+
+.fhd .group-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0;
+  margin-top: 247px;
+  min-height: 422px;
+  width: 1836px;
+  z-index: 9;
+}
+
+.fhd .overlap-group18 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-28-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 93px;
+  min-width: 892px;
+  padding: 26.5px 246.1px;
+}
+
+.fhd .exploration {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 35px;
+  min-width: 190px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .professions-2 {
+  align-self: flex-end;
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/exploration.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 282px;
+  width: 502px;
+}
+
+.fhd .professions-2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .professions-2 img {
+  object-fit: cover;
+}
+
+.fhd .overlap-group19 {
+  align-items: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62632bad1681dd898a407d4b/img/path-19-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 282px;
+  margin-left: 32px;
+  min-width: 1302px;
+  padding: 65.7px 37.9px;
+}
+
+.fhd .after {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 134px;
+  min-width: 1060px;
+  white-space: nowrap;
+}
+
+.fhd .arts {
+  align-items: flex-start;
+  background-color: var(--voodoo);
+  display: flex;
+  flex-direction: column;
+  margin-right: 0;
+  margin-top: 140px;
+  min-height: 1004px;
+  padding: 33px 260px;
+  width: 1839px;
+  z-index: 4;
+}
+
+.fhd .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 437px;
+  min-width: 1317px;
+}
+
+.fhd .demo1-2 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/astronaut.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+}
+
+.fhd .demo1-2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo1-2 img {
+  object-fit: cover;
+}
+
+.fhd .arts-1 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 194px;
+  min-height: 41px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.fhd .demo2 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/terminator.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  margin-left: 190px;
+  width: 400px;
+}
+
+.fhd .demo2 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo2 img {
+  object-fit: cover;
+}
+
+.fhd .demo-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 63px;
+  min-width: 1317px;
+}
+
+.fhd .demo1-3 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/super-saiyan.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  width: 400px;
+}
+
+.fhd .demo1-3 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo1-3 img {
+  object-fit: cover;
+}
+
+.fhd .demo2-1 {
+  background-image: url(https://cdn.animaapp.com/projects/62130793c629f8362ca484e0/files/joker.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 400px;
+  margin-left: 517px;
+  width: 400px;
+}
+
+.fhd .demo2-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.fhd .demo2-1 img {
+  object-fit: cover;
+}
+
+.fhd .about-1 {
+  align-items: flex-start;
+  background-color: var(--voodoo);
+  display: flex;
+  height: 1247px;
+  margin-top: 119px;
+  min-width: 1839px;
+  padding: 26px 42.0px;
+  z-index: 5;
+}
+
+.fhd .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 1158px;
+  min-width: 1033px;
+}
+
+.fhd .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 565px;
+  width: 336px;
+}
+
+.fhd .about-2 {
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 41px;
+  white-space: nowrap;
+}
+
+.fhd .demo1-4 {
+  height: 281px;
+  margin-top: 65px;
+  object-fit: cover;
+  width: 281px;
+}
+
+.fhd .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-right: 0;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 80.5px;
+  width: 281px;
+}
+
+.fhd .blink {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-right: 0;
+  min-height: 30px;
+  min-width: 66px;
+  white-space: nowrap;
+}
+
+.fhd .founder-tokenomics {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+  margin-top: 58.0px;
+  min-height: 1004px;
+  width: 281px;
+}
+
+.fhd .demo1 {
+  height: 281px;
+  margin-left: 0.25px;
+  object-fit: cover;
+  width: 281px;
+}
+
+.fhd .overlap-group {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.25px;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 0;
+  width: 281px;
+}
+
+.fhd .icyreggie {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 30px;
+  min-width: 115px;
+  white-space: nowrap;
+}
+
+.fhd .co-founder-advisor {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 10px;
+  min-height: 72px;
+  min-width: 126px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .demo1-1 {
+  height: 281px;
+  margin-top: 86px;
+  object-fit: cover;
+  width: 281px;
+}
+
+.fhd .overlap-group2 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 0;
+  width: 281px;
+}
+
+.fhd .fawnzee {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 0.5px;
+  min-height: 30px;
+  min-width: 103px;
+  white-space: nowrap;
+}
+
+.fhd .developer {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 20px;
+  min-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .flex-col-2 {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 48px;
+  min-height: 1052px;
+  width: 308px;
+}
+
+.fhd .demo1-5 {
+  height: 281px;
+  margin-right: 3.0px;
+  object-fit: cover;
+  width: 281px;
+}
+
+.fhd .overlap-group3 {
+  align-items: center;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-right: 3.0px;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 0;
+  width: 281px;
+}
+
+.fhd .crow {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 30px;
+  min-width: 69px;
+  white-space: nowrap;
+}
+
+.fhd .artist {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 3.0px;
+  margin-top: 32px;
+  min-height: 24px;
+  min-width: 66px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .the-crew {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: 12px;
+  min-height: 46px;
+  min-width: 277px;
+  white-space: nowrap;
+}
+
+.fhd .the-posse {
+  letter-spacing: 0;
+  line-height: 40px;
+  margin-top: 488px;
+  min-height: 46px;
+  min-width: 308px;
+  white-space: nowrap;
+}
+
+.fhd .flex-col-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 46px;
+  margin-top: 21.0px;
+  min-height: 1004px;
+  width: 281px;
+}
+
+.fhd .bewinxed {
+  letter-spacing: 0;
+  line-height: 25px;
+  min-height: 30px;
+  min-width: 114px;
+  white-space: nowrap;
+}
+
+.fhd .developer-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-left: 6.0px;
+  margin-top: 20px;
+  min-height: 24px;
+  min-width: 108px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 50.2px;
+  width: 281px;
+}
+
+.fhd .xew {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 6.5px;
+  min-height: 30px;
+  min-width: 49px;
+  white-space: nowrap;
+}
+
+.fhd .animatorgraphic-designer {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 12px;
+  min-height: 72px;
+  min-width: 174px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 60px;
+  margin-top: 106px;
+  min-height: 459px;
+  width: 281px;
+}
+
+.fhd .demo1-6 {
+  height: 281px;
+  object-fit: cover;
+  width: 281px;
+}
+
+.fhd .overlap-group5-1 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  display: flex;
+  flex-direction: column;
+  margin-top: 38px;
+  min-height: 140px;
+  padding: 8.5px 77.5px;
+  width: 281px;
+}
+
+.fhd .sn00ze {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-left: 6.0px;
+  min-height: 30px;
+  min-width: 92px;
+  white-space: nowrap;
+}
+
+.fhd .tokenomicsadvisor {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: 22px;
+  min-height: 48px;
+  min-width: 120px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.fhd .faq-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 101px;
+  min-height: 743px;
+  width: 1839px;
+  z-index: 6;
+}
+
+.fhd .overlap-group11 {
+  align-items: flex-end;
+  background-color: var(--voodoo);
+  display: flex;
+  height: 82px;
+  justify-content: flex-end;
+  margin-left: 0.48px;
+  min-width: 170px;
+  padding: 15.7px 37.0px;
+}
+
+.fhd .faq-2 {
+  letter-spacing: 0;
+  line-height: 35px;
+  min-height: 41px;
+  min-width: 92px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group10 {
+  height: 151px;
+  margin-left: 0.24px;
+  position: relative;
+  width: 1839px;
+}
+
+.fhd .path-35 {
+  height: 150px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1839px;
+}
+
+.fhd .path-33 {
+  height: 75px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 1839px;
+}
+
+.fhd .tba {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 98px;
+  white-space: nowrap;
+}
+
+.fhd .when-is-the-mint-date {
+  left: 42px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-35@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  min-height: 150px;
+  width: 1839px;
+}
+
+.fhd .mint-price {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -1px;
+  margin-left: 42.98px;
+  margin-top: 24px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group-3 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-31@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 75px;
+  margin-left: 0.48px;
+  margin-top: 22px;
+  min-width: 1839px;
+  padding: 21.7px 42.5px;
+}
+
+.fhd .tba-1 {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 28px;
+  white-space: nowrap;
+}
+
+.fhd .how-much-is-the-supply {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -1px;
+  margin-left: 42.98px;
+  margin-top: 24px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group1-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-31@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 75px;
+  margin-left: 0.48px;
+  margin-top: 22px;
+  min-width: 1839px;
+  padding: 17.5px 45.0px;
+}
+
+.fhd .x-will {
+  letter-spacing: 0;
+  line-height: 30px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.fhd .is-it-limited-mint {
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-bottom: -1px;
+  margin-left: 42.98px;
+  margin-top: 24px;
+  min-height: 29px;
+  white-space: nowrap;
+}
+
+.fhd .overlap-group2-1 {
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/62130793c629f8362ca484e0/releases/62703647884b6e8516975793/img/path-31@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 75px;
+  margin-left: 0.48px;
+  margin-top: 22px;
+  min-width: 1839px;
+  padding: 21.5px 42.0px;
+}
